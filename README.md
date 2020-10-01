@@ -36,6 +36,8 @@ Maintain HTML tags (default true)
 ### suffix
 string that will be appended at the end
 
+### CSS and SCSS
+
 ### moreLink
 link to full content
 
